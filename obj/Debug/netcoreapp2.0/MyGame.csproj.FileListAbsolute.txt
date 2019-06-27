@@ -1,0 +1,14 @@
+C:\Users\13175\MyGame\obj\Debug\netcoreapp2.0\MyGame.csprojAssemblyReference.cache
+C:\Users\13175\MyGame\obj\Debug\netcoreapp2.0\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\13175\MyGame\obj\Debug\netcoreapp2.0\MyGame.AssemblyInfoInputs.cache
+C:\Users\13175\MyGame\obj\Debug\netcoreapp2.0\MyGame.AssemblyInfo.cs
+C:\Users\13175\MyGame\bin\Debug\netcoreapp2.0\MyGame.deps.json
+C:\Users\13175\MyGame\bin\Debug\netcoreapp2.0\MyGame.runtimeconfig.json
+C:\Users\13175\MyGame\bin\Debug\netcoreapp2.0\MyGame.runtimeconfig.dev.json
+C:\Users\13175\MyGame\bin\Debug\netcoreapp2.0\MyGame.dll
+C:\Users\13175\MyGame\bin\Debug\netcoreapp2.0\MyGame.pdb
+C:\Users\13175\MyGame\obj\Debug\netcoreapp2.0\MyGame.dll
+C:\Users\13175\MyGame\obj\Debug\netcoreapp2.0\MyGame.pdb
+C:\Users\13175\MyGame\bin\Debug\netcoreapp2.0\Content\box.xnb
+C:\Users\13175\MyGame\bin\Debug\netcoreapp2.0\Content\blackbg.xnb
+C:\Users\13175\MyGame\bin\Debug\netcoreapp2.0\Content\spaceship.xnb
